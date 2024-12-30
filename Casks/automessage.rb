@@ -1,5 +1,5 @@
 cask "automessage" do
-  version "1.0.0"
+  version "v1.0.0"
   sha256 "6a3b221fadd32b89741a2b0c005897bdcddbc9c975c893a27ad5c25c2691208f"
   url "https://github.com/SirYuxuan/AutoMessage/releases/download/#{version}/AutoMessage.app.zip"
   name "AutoMessage"
