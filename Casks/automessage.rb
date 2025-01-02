@@ -1,6 +1,6 @@
 cask "automessage" do
   version "v1.0.0"
-  sha256 "6a3b221fadd32b89741a2b0c005897bdcddbc9c975c893a27ad5c25c2691208f"
+  sha256 "4324eb54c10daa177eb5d85074ad514b444aa4600e5087b353a5c02385aa4401"
   url "https://github.com/SirYuxuan/AutoMessage/releases/download/#{version}/AutoMessage.app.zip"
   name "AutoMessage"
   desc "自动识别并填写验证码的 macOS 工具"
